@@ -6,7 +6,7 @@
 - My Apps:
 
 Coffee Blog
-- https://66f71fe2576d5ef0193bb379--blog-de-cafe-bbautista.netlify.app/
+- https://blog-de-cafe-bbautista.netlify.app/
 
 FrontEnd Store
 - https://front-end-store-bbautista.netlify.app/
